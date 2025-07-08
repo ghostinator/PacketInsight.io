@@ -125,31 +125,45 @@ PacketInsight.io was designed from the ground up with security and privacy as fu
 - Summary statistics and key metrics
 - Quick access to major findings and alerts
 - System resource usage and processing status
+![CleanShot 2025-07-08 at 14 35 36](https://github.com/user-attachments/assets/34e51cad-e038-4929-bc7b-aa4423d18bd1)
+
 
 #### 🌐 **Network Topology**
 - Interactive network map showing device relationships
 - Click on nodes to view detailed device information
 - Filter by protocol, time range, or traffic volume
+![CleanShot 2025-07-08 at 14 36 43](https://github.com/user-attachments/assets/d6f9d714-24a3-4771-bb47-c1f8aa84bc9c)
+
 
 #### 📊 **Traffic Analysis**
 - Protocol distribution and usage statistics
 - Bandwidth utilization over time
 - Top talkers and conversation analysis
+![CleanShot 2025-07-08 at 14 37 25](https://github.com/user-attachments/assets/fb4914f5-b818-4934-8f1a-56fcd5353f33)
+
 
 #### ⏱️ **Timeline View**
 - Chronological packet analysis
 - Advanced filtering and search capabilities
 - Zoom and pan through traffic history
+![CleanShot 2025-07-08 at 14 37 58](https://github.com/user-attachments/assets/237d2dd0-9372-4a4d-90fe-ee2b1502e393)
 
-#### 🔍 **Packet Inspector**
+
+#### 🔍 **Performance & Security ⚠️ **
+- Currently basic with more features to come such as:
 - Detailed packet-level analysis
 - Protocol dissection and field inspection
 - Hex dump and ASCII representation
-
-#### ⚠️ **Security Alerts**
 - Automated security findings
 - Suspicious activity detection
 - Recommended actions and remediation steps
+  ![CleanShot 2025-07-08 at 14 38 56](https://github.com/user-attachments/assets/219a883e-c6c6-4eed-b1c1-0d104c600b07)
+
+
+### 🔍 **Protocol Analysis**
+- Shows statistics of TCP, UDP, DNS, HTTP, TLS Analysis and DHCP analysis  
+![CleanShot 2025-07-08 at 14 44 37](https://github.com/user-attachments/assets/f9772269-3d3c-41ae-b118-e610115f0efe)
+
 
 ### Export Features
 
@@ -199,7 +213,7 @@ PacketInsight.io was designed from the ground up with security and privacy as fu
 - **Background processing**: Non-blocking UI during analysis
 
 ### Protocol Support
-PacketInsight.io supports analysis of 200+ network protocols including:
+PacketInsight.io supports analysis of 6 network protocols and will be expanding to 200+ network protocols including:
 - **Layer 2**: Ethernet, WiFi, PPP, VLAN
 - **Layer 3**: IPv4, IPv6, ICMP, ARP, MPLS
 - **Layer 4**: TCP, UDP, SCTP
