@@ -58,7 +58,7 @@ function HomePageContent() {
             <div className="flex items-center space-x-2">
               <FileType className="h-6 w-6 text-primary" />
               <span className="font-bold text-lg bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-                PacketInsight
+                PacketInsight.io
               </span>
             </div>
             {state === 'dashboard' && analysis?.filename && (

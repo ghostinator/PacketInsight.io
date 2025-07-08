@@ -56,6 +56,16 @@ export default function RootLayout({
                       packetinsight@ghostinator.co
                     </a>
                   </div>
+                  <div className="flex items-center space-x-4">
+                    <span>Github</span>
+                    <span>:</span>
+                    <a 
+                      href="https://github.com/ghostinator/PacketInsight.io" 
+                      className="hover:text-foreground transition-colors"
+                    >
+                     github.com/ghostinator/PacketInsight.io
+                    </a>
+                  </div>
                 </div>
               </footer>
             </div>
