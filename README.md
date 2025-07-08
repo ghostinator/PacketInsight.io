@@ -11,6 +11,11 @@
 
 > **A secure, client-side network traffic analysis tool that brings enterprise-grade packet inspection capabilities directly to your browser**
 
+
+![image](https://github.com/user-attachments/assets/cd047dd9-8e55-4263-9f38-37952209a3d3)
+
+ 
+
 [PacketInsight.io](https://packetinsight.io) is a revolutionary browser-based network analysis platform that processes PCAP and PCAPNG files entirely within your browser using modern web technologies. Built with privacy and security as core principles, PacketInsight ensures that your sensitive network data never leaves your device while providing comprehensive traffic analysis, visualization, and export capabilities.
 
 ## 🚀 Key Features
@@ -125,28 +130,32 @@ PacketInsight.io was designed from the ground up with security and privacy as fu
 - Summary statistics and key metrics
 - Quick access to major findings and alerts
 - System resource usage and processing status
-![CleanShot 2025-07-08 at 14 35 36](https://github.com/user-attachments/assets/34e51cad-e038-4929-bc7b-aa4423d18bd1)
+![image](https://github.com/user-attachments/assets/df72f687-2c89-4412-8a87-0f8cadeb27f9)
+
 
 
 #### 🌐 **Network Topology**
 - Interactive network map showing device relationships
 - Click on nodes to view detailed device information
 - Filter by protocol, time range, or traffic volume
-![CleanShot 2025-07-08 at 14 36 43](https://github.com/user-attachments/assets/d6f9d714-24a3-4771-bb47-c1f8aa84bc9c)
+![image](https://github.com/user-attachments/assets/cbc637d8-b491-477a-9f6e-e8fbbf872a44)
+
 
 
 #### 📊 **Traffic Analysis**
 - Protocol distribution and usage statistics
 - Bandwidth utilization over time
 - Top talkers and conversation analysis
-![CleanShot 2025-07-08 at 14 37 25](https://github.com/user-attachments/assets/fb4914f5-b818-4934-8f1a-56fcd5353f33)
+![image](https://github.com/user-attachments/assets/19651437-8ce2-4ff9-9022-50b175c83e7c)
+
 
 
 #### ⏱️ **Timeline View**
 - Chronological packet analysis
 - Advanced filtering and search capabilities
 - Zoom and pan through traffic history
-![CleanShot 2025-07-08 at 14 37 58](https://github.com/user-attachments/assets/237d2dd0-9372-4a4d-90fe-ee2b1502e393)
+![image](https://github.com/user-attachments/assets/c9070dc3-d19b-41fc-834d-db8878230296)
+
 
 
 #### 🔍 **Performance & Security ⚠️ **
@@ -157,12 +166,14 @@ PacketInsight.io was designed from the ground up with security and privacy as fu
 - Automated security findings
 - Suspicious activity detection
 - Recommended actions and remediation steps
-  ![CleanShot 2025-07-08 at 14 38 56](https://github.com/user-attachments/assets/219a883e-c6c6-4eed-b1c1-0d104c600b07)
+![image](https://github.com/user-attachments/assets/55dcdffe-e67d-4a5d-baa9-c74516b02f72)
+
 
 
 ### 🔍 **Protocol Analysis**
-- Shows statistics of TCP, UDP, DNS, HTTP, TLS Analysis and DHCP analysis  
-![CleanShot 2025-07-08 at 14 44 37](https://github.com/user-attachments/assets/f9772269-3d3c-41ae-b118-e610115f0efe)
+- Shows basic statistics of TCP, UDP, DNS, HTTP, TLS Analysis and DHCP analysis
+![image](https://github.com/user-attachments/assets/1e83d338-062a-4330-b04f-76e76386507c)
+
 
 
 ### Export Features
