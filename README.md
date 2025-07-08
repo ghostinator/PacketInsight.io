@@ -11,7 +11,7 @@
 
 > **A secure, client-side network traffic analysis tool that brings enterprise-grade packet inspection capabilities directly to your browser**
 
-PacketInsight.io is a revolutionary browser-based network analysis platform that processes PCAP and PCAPNG files entirely within your browser using modern web technologies. Built with privacy and security as core principles, PacketInsight ensures that your sensitive network data never leaves your device while providing comprehensive traffic analysis, visualization, and export capabilities.
+[PacketInsight.io](https://packetinsight.io) is a revolutionary browser-based network analysis platform that processes PCAP and PCAPNG files entirely within your browser using modern web technologies. Built with privacy and security as core principles, PacketInsight ensures that your sensitive network data never leaves your device while providing comprehensive traffic analysis, visualization, and export capabilities.
 
 ## 🚀 Key Features
 
@@ -114,7 +114,7 @@ PacketInsight.io was designed from the ground up with security and privacy as fu
 
 ### Getting Started
 
-1. **Launch PacketInsight.io** in your web browser
+1. **Launch [PacketInsight.io](https://packetinsight.io)** in your web browser
 2. **Upload PCAP/PCAPNG files** using the drag-and-drop interface or file selector
 3. **Wait for processing** - large files may take a few moments to analyze client-side
 4. **Explore the dashboard** with multiple analysis views and visualizations
@@ -195,7 +195,7 @@ PacketInsight.io was designed from the ground up with security and privacy as fu
 ### Supported File Formats
 - **PCAP**: Standard packet capture format
 - **PCAPNG**: Next-generation packet capture format
-- **Maximum file size**: 2GB (browser dependent)
+- **Maximum file size**: 500MB (browser dependent and can be changed to several GB)
 - **Compression**: Automatic detection and decompression
 
 ### Browser Requirements
