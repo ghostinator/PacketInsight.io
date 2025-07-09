@@ -42,7 +42,7 @@ export default function RootLayout({
               <footer className="border-t bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
                 <div className="container flex h-14 items-center justify-between text-sm text-muted-foreground">
                   <div className="flex items-center space-x-4">
-                    <span>© 2025 PacketInsight.io</span>
+                    <span> © 2025 PacketInsight.io</span>
                     <span>•</span>
                     <span>100% Client-side PCAP analysis</span>
                   </div>
