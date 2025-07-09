@@ -53,7 +53,7 @@ export default function RootLayout({
                       href="mailto:packetinsight@ghostinator.co" 
                       className="hover:text-foreground transition-colors"
                     >
-                      packetinsight@ghostinator.co
+                      packetinsight@ghostinator.co 
                     </a>
                   </div>
                   <div className="flex items-center space-x-2">
