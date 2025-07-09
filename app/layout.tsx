@@ -40,7 +40,7 @@ export default function RootLayout({
                 {children}
               </div>
               <footer className="border-t bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-                <div className="container flex h-14 items-center justify-between text-sm text-muted-foreground">
+                <div class="container max-w-2xl mx-auto flex h-14 items-center justify-center text-sm text-muted-foreground">
                   <div className="flex items-center space-x-4">
                     <span> © 2025 PacketInsight.io</span>
                     <span>•</span>
