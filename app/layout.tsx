@@ -63,7 +63,7 @@ export default function RootLayout({
                       href="https://github.com/ghostinator/PacketInsight.io" 
                       className="hover:text-foreground transition-colors"
                     >
-                     github.com/ghostinator/PacketInsight.io
+                     Github
                     </a>
                   </div>
                 </div>
