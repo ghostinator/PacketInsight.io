@@ -40,21 +40,17 @@ export default function RootLayout({
                 {children}
               </div>
               <footer className="border-t bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-                <div className="container max-w-2xl mx-auto flex h-14 items-center justify-center text-sm text-muted-foreground">
-                  <div className="flex items-center space-x-4">
+                <div className="container max-w-16xl mx-auto flex h-14 items-center justify-center text-sm text-muted-foreground">
+                  <div className="flex items-center space-x-8">
                     <span> © 2025 PacketInsight.io</span>
                     <span>•</span>
                     <span>100% Client-side PCAP analysis</span>
+                    <span>•&nbsp; </span>
                   </div>
-                  <div className="flex items-center space-x-4">
-                    <span>Contact: Brandon Cook</span>
-                    <span>•</span>
-                    <a 
-                      href="mailto:packetinsight@ghostinator.co" 
-                      className="hover:text-foreground transition-colors"
-                    >
-                      packetinsight@ghostinator.co
-                    </a> 
+                  <div className="flex items-center space-x-8">
+                    <span> Contact: Brandon Cook</span>
+                    <span>--&gt;</span>
+                    <a href="mailto:packetinsight@ghostinator.co" className="hover:text-foreground transition-colors">packetinsight@ghostinator.co</a> 
                     <span>•</span>
                     <a
                       href="https://github.com/ghostinator/PacketInsight.io"
